@@ -8,3 +8,4 @@ app.set("view engine", "ejs");
 app.use("/", router);
 
 app.listen(3000, ()=>{ console.log("3000 서버 연동")});
+
